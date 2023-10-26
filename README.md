@@ -17,9 +17,11 @@ Repositorio de la materia Herramientas computacionales: el arte de la analítica
 
 #  Team
 
-Team **5**
-
 - Santiago Velasquez Chang A00832788
+- Francisco Jervis A00835131
+- David Israel Vázquez Leal A00833121
+- Michelle Bojórquez Gómez A00833416
+- Rodrigo Escandon A01704287
 
 
 
